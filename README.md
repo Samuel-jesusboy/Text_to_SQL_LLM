@@ -1,0 +1,2 @@
+# Text_to_SQL_LLM
+ I utilized Gemini Pro as a Language Model (LLM) to seamlessly convert textual data into structured SQL queries. These queries were then executed against a database, with the resulting data presented in a user-friendly format. Additionally, the entire model was hosted on a Streamlit platform, allowing for easy access and interaction. This end-to-end solution streamlined the process of querying databases, enhancing efficiency and usability.
